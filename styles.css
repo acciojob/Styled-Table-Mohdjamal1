@@ -1,1 +1,15 @@
 /* your code */
+#tb{
+	border:2px solid;
+	border-radius:7px;
+	width:500px;
+	height:160px;
+	border-spacing:0px;
+}
+#one{
+	background-color:blueviolet;
+	text-align: left;
+}
+.two{
+	background-color:lightcyan;
+}
